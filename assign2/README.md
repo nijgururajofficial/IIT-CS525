@@ -138,7 +138,7 @@ The buffer manager efficiently manages pages using various page replacement stra
 
 ## Output
 ### Test 1
-![Alt text](output/image1.png)
+![Alt text](Output/image1.png)
 
 ### Test 2
-![Alt text](output/image2.png)
+![Alt text](Output/image2.png)
