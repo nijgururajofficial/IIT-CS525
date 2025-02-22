@@ -3,6 +3,8 @@
 
 The **Buffer Manager Interface** is designed to manage a buffer pool for an existing page file. It facilitates efficient management of pages in memory using various page replacement strategies. This interface includes data structures and functions for initializing, managing, and retrieving statistics about the buffer pool.
 
+Video Link: https://www.loom.com/share/b600152716934fba8364cdd60a378141
+
 ## Compile and Run
 ### Compilation
 ```sh
